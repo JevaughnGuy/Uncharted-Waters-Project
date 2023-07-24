@@ -1,0 +1,15 @@
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\bin\Debug\net6.0\UnchartedWatersArrayProject.exe
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\bin\Debug\net6.0\UnchartedWatersArrayProject.deps.json
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\bin\Debug\net6.0\UnchartedWatersArrayProject.runtimeconfig.json
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\bin\Debug\net6.0\UnchartedWatersArrayProject.dll
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\bin\Debug\net6.0\UnchartedWatersArrayProject.pdb
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.csproj.AssemblyReference.cache
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.AssemblyInfoInputs.cache
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.AssemblyInfo.cs
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.dll
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\refint\UnchartedWatersArrayProject.dll
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.pdb
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\UnchartedWatersArrayProject.genruntimeconfig.cache
+C:\Users\Schmo\source\repos\UnchartedWatersArrayProject\obj\Debug\net6.0\ref\UnchartedWatersArrayProject.dll
